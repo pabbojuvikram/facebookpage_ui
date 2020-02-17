@@ -1,0 +1,100 @@
+header{
+    background-color: #3b5998;
+    height: 100px;
+    
+}
+.logo{
+    float: left;
+    width: 50%;
+    text-align: center;
+}
+.name{
+    color: white;
+    font-weight: bolder;
+    margin-top: 42px;
+}
+.form{
+    float: left;
+     width: 50%;
+     margin-top: 26px;
+}
+.name-panel{
+    float: left;
+}
+.password-panel{
+    float: left;
+    padding: 0px 18px
+}
+.login-panel{
+    float: left;
+    
+    margin-top: 18px;
+    padding: 0px 14px;
+}
+.forgotten{
+    margin: 0px;
+    color: white;
+}
+.login{
+    background-color: #3b5998;
+    border: 1px solid black;
+    color: white;
+}
+.login:hover{
+    background-color: #3b5998;
+    color: white;
+}
+/**   second section */
+
+.border-text{
+
+    border: 1px solid grey;
+    /* padding: 10px; */
+    border-radius: 5px;
+    height: 40px;
+    text-align: center;
+    font-size: medium;
+    width: 169px;
+}
+.border-text1{
+
+    border: 1px solid grey;
+    /* padding: 10px; */
+    border-radius: 5px;
+    height: 40px;
+    width: 360px;
+    text-align: center;
+    font-size: larger;
+}
+.left{
+    float: left;
+    width: 60%;
+    height: 520px;
+    /* background-color: darkgray; */
+    background: linear-gradient(white, #D3D8E8);
+}
+.text{
+    color: #3b5998;
+    font-weight: bolder;
+    text-align: center;
+    margin-top: 75px;
+}
+.image{
+    text-align: center;
+}
+.right{
+    float: left;
+    width: 40%;
+    height: 520px;
+    /* background-color: grey;
+     */
+     background: linear-gradient(white, #D3D8E8);
+}
+.birthday{
+    color: grey;
+    font-weight: bold;
+}
+.gender{
+    color: grey;
+    font-weight: bold;
+}
